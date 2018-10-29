@@ -3,10 +3,12 @@ first
 809
 again
 below again
+gui1
 moreavove
 above
 newline
 850
+gui2
 somemore
 below
 second
