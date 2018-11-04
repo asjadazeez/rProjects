@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lcoal data
+=======
+somedata
+>>>>>>> 24a4a8319dc87a930d0bb2ae46aaecc9218e5bde
